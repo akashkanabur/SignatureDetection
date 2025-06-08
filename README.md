@@ -87,10 +87,6 @@ Secure documents. Prevent fraud. Power verification with AI.
 Thank you for visiting this repository! 
 
 
-![SignDetect](https://github.com/user-attachments/assets/91d0ae54-327b-4c33-b149-112bed4ef810)
-
-
-
 https://github.com/user-attachments/assets/e40ee41d-c5d7-4252-bdba-bc93c54e39ef
 
 
