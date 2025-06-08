@@ -87,19 +87,8 @@ Secure documents. Prevent fraud. Power verification with AI.
 Thank you for visiting this repository! 
 
 
-<p align="center">
-  <img src="![SignDetect](https://github.com/user-attachments/assets/ad576fa2-bdf5-490c-ab03-54e077b5f39f)" width="400"/>
-</p>
-
-<p align="center">
-
-  <img src="![WhatsApp Image 2025-06-07 at 16 23 36_11c87de1](https://github.com/user-attachments/assets/a1b9231a-fe8a-4f3f-8ac4-e214dd22b03c)" alt="Signature Image 1" width="300"/>
-  <br><br>
-  <img src="![WhatsApp Image 2025-06-07 at 16 25 23_fb92e3b7](https://github.com/user-attachments/assets/01f0a1d4-6899-40b3-a88b-ad1417cbacb6)" alt="Signature Image 2" width="300"/>
-</p>
-<p align="center">
-  <img src="" alt="![WhatsApp Image 2025-06-07 at 16 25 23_fb92e3b7](https://github.com/user-attachments/assets/2154d201-d3c6-4ca2-8f81-d1c7f6619daf)" width="300"/>
-  <br><br>!
-   <img src="![WhatsApp Image 2025-06-07 at 16 23 36_11c87de1](https://github.com/user-attachments/assets/ebcf3701-fa65-4ff4-bde9-4c841926781f)" alt="Signature Image 2" width="300"/>
-</p>
+![SignDetect](https://github.com/user-attachments/assets/91d0ae54-327b-4c33-b149-112bed4ef810)
+![WhatsApp Image 2025-06-07 at 16 23 36_11c87de1](https://github.com/user-attachments/assets/878d48f5-ce28-4995-90d5-9b7730862e9a)
+![WhatsApp Image 2025-06-07 at 16 23 37_7b4e7961](https://github.com/user-attachments/assets/d281da28-2e60-4c0b-b768-c6ffe1484e34)
+![WhatsApp Image 2025-06-07 at 16 25 23_fb92e3b7](https://github.com/user-attachments/assets/cfbc3787-084b-4fcf-9518-de39d74d8339)
 
